@@ -4,7 +4,7 @@ from conan.tools.files import copy
 
 class CoolConceptsRecipe(ConanFile):
     name = "cool-concepts"
-    version = "0.1.0"
+    version = "0.0.1"
 
     description = "Cool and modern C++ concepts"
     license = "MIT"

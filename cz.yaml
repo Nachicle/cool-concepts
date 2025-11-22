@@ -1,0 +1,5 @@
+commitizen:
+    tag_format: v$version
+    version_provider: conan-provider
+    version_scheme: semver2
+    major_version_zero: true
